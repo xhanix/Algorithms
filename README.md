@@ -21,3 +21,9 @@
 5- PermMissingElem: Find the missing element in a given permutation.
    **Score: 100%** 
    https://app.codility.com/demo/results/trainingS2ZDDM-ZCK/
+
+
+6- TapeEquilibrium: Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+   **Score: 100%** 
+  https://app.codility.com/demo/results/trainingNM99AM-YGP/
+

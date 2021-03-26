@@ -6,7 +6,7 @@ namespace Algos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(PermMissingElem.solution(new int[] { 2, 3, 1, 5 }));
+            Console.WriteLine(TapeEquilibrium.solution(new int[] { 3,1,2,4,3 }));
         }
 
        
