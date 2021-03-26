@@ -1,6 +1,6 @@
 # Algorithms
 
-### C# 8.0 (.net 5) solutions to common algorithm and data structure challanges
+### My solutions to common algorithm and data structure challanges using C# 8.0 (.net 5)
 
 1- BinaryGap: Find longest sequence of zeros in binary representation of an integer.
    **Score: 100%** 
@@ -26,4 +26,8 @@
 6- TapeEquilibrium: Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
    **Score: 100%** 
   https://app.codility.com/demo/results/trainingNM99AM-YGP/
+
+7- FrogRiverOne: Find the earliest time when a frog can jump to the other side of a river.
+   **Score: 100%** 
+  https://app.codility.com/demo/results/trainingHHFKK5-X4B/
 

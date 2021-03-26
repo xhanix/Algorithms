@@ -6,7 +6,8 @@ namespace Algos
     {
         public static int solution(int[] A)
         {
-            // A[0]...A[P-1]    -    A[P]...A[N-1]
+            // (A[0]...A[P-1])    -    (A[P]...A[N-1])
+            // Important to keep P on the right (min 2 values on the right: A[P] and A[N-1])
             if (A.Length == 2) return Math.Abs(A[0] - A[1]);
             var preSum = new long[A.Length];
             preSum[0] = A[0];
