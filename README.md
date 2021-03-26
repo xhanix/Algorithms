@@ -1,6 +1,6 @@
 # Algorithms
 
-### My solutions to common algorithm and data structure challanges using C# 8.0 (.net 5)
+### My solutions to common algorithm and data structure challenges using C# 8.0 (.net 5)
 
 1- BinaryGap: Find longest sequence of zeros in binary representation of an integer.
    **Score: 100%** 

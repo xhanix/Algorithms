@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Algos
 {
@@ -7,12 +6,12 @@ namespace Algos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(FrogRiverOne.solution(5, new int[] { 1,3,1,4,2,3,5,4 }));
+            Console.WriteLine(FrogRiverOne.solution(5, new int[] { 1, 3, 1, 4, 2, 3, 5, 4 }));
 
-            
+
         }
 
-       
+
 
     }
 }
