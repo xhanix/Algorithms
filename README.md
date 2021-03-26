@@ -31,3 +31,7 @@
    **Score: 100%** 
   https://app.codility.com/demo/results/trainingHHFKK5-X4B/
 
+8- MaxCounters: Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
+   **Score: 100%** 
+  https://app.codility.com/demo/results/trainingDNCM6R-CBH/
+
