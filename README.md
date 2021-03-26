@@ -10,6 +10,10 @@
    **Score: 100%** 
    https://app.codility.com/demo/results/trainingG98V3M-KVK/
 
-2- OddOccurrencesInArray: Find value that occurs in odd number of elements.
+3- OddOccurrencesInArray: Find value that occurs in odd number of elements.
    **Score: 100%** 
    https://app.codility.com/demo/results/trainingDBPUP8-JCN/
+
+4- FrogJmp: Count minimal number of jumps from position X to Y.
+   **Score: 100%** 
+   https://app.codility.com/demo/results/training4YKXZ4-4A9/

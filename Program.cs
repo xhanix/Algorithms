@@ -6,7 +6,10 @@ namespace Algos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(OddOccurrencesInArray.solution(new int[] { 1, 1, 9, 6, 9, 9, 9 }));
+            Console.WriteLine(FrogJmp.solution(10,85,30));
         }
+
+
+       
     }
 }
