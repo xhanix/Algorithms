@@ -17,3 +17,7 @@
 4- FrogJmp: Count minimal number of jumps from position X to Y.
    **Score: 100%** 
    https://app.codility.com/demo/results/training4YKXZ4-4A9/
+
+5- PermMissingElem: Find the missing element in a given permutation.
+   **Score: 100%** 
+   https://app.codility.com/demo/results/trainingS2ZDDM-ZCK/

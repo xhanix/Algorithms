@@ -6,10 +6,10 @@ namespace Algos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(FrogJmp.solution(10,85,30));
+            Console.WriteLine(PermMissingElem.solution(new int[] { 2, 3, 1, 5 }));
         }
 
-
        
+
     }
 }
