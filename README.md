@@ -50,5 +50,9 @@ https://app.codility.com/demo/results/trainingCT4J34-FZU/
 
 12- GenomicRangeQuery: Find the minimal nucleotide from a range of sequence DNA.  
 **Score: 100%**  
-https://app.codility.com/demo/results/training93DZ3V-M3Z/
+https://app.codility.com/demo/results/training93DZ3V-M3Z/  
+
+13- MinAvgTwoSlice: Find the minimal average of any slice containing at least two elements.  
+**Score: 100%**  
+https://app.codility.com/demo/results/training2ED4X2-QQ9/
 
