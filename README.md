@@ -39,3 +39,7 @@
    **Score: 100%**  
   https://app.codility.com/demo/results/trainingTNWYCJ-YMW/  
 
+10- PermCheck: Check whether array A is a permutation.  
+**Score: 100%**  
+https://app.codility.com/demo/results/training795KYX-994/  
+

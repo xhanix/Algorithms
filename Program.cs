@@ -6,8 +6,10 @@ namespace Algos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MissingInteger.solution(new int[] { 4, 5, 6, 2 }));
+            Console.WriteLine(PermCheck.solution(new int[] { 1, 2, 5, 7, 7, 8, 9, 10 }));
         }
+
+
 
 
     }
