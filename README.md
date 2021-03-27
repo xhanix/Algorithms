@@ -45,5 +45,10 @@ https://app.codility.com/demo/results/training795KYX-994/
 
 11- CountDiv: Compute number of integers divisible by k in range [a..b].  
 **Score: 100%**  
-https://app.codility.com/demo/results/trainingCT4J34-FZU/
+https://app.codility.com/demo/results/trainingCT4J34-FZU/  
+
+
+12- GenomicRangeQuery: Find the minimal nucleotide from a range of sequence DNA.  
+**Score: 100%**  
+https://app.codility.com/demo/results/training93DZ3V-M3Z/
 
