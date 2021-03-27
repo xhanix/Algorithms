@@ -54,5 +54,9 @@ https://app.codility.com/demo/results/training93DZ3V-M3Z/
 
 13- MinAvgTwoSlice: Find the minimal average of any slice containing at least two elements.  
 **Score: 100%**  
-https://app.codility.com/demo/results/training2ED4X2-QQ9/
+https://app.codility.com/demo/results/training2ED4X2-QQ9/  
+
+14- PassingCars: Count the number of passing cars on the road.  
+**Score: 100%**  
+https://app.codility.com/demo/results/trainingFAE698-CY9/  
 

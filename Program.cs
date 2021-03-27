@@ -6,8 +6,8 @@ namespace Algos
     {
         static void Main(string[] args)
         {
-            var A = new int[] { 5, 6, 3, 4, 9 };
-            Console.WriteLine(MinAvgTwoSlice.solution(A));
+            var A = new int[] { 0, 1, 0, 1, 1 };
+            Console.WriteLine(PassingCars.solution(A));
         }
 
 
