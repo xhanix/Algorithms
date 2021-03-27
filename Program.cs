@@ -6,7 +6,7 @@ namespace Algos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MaxCounters.solution(5, new int[] { 3, 4, 4, 6, 1, 4, 4 }));
+            Console.WriteLine(MissingInteger.solution(new int[] { 4, 5, 6, 2 }));
         }
 
 

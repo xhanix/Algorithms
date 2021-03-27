@@ -33,5 +33,9 @@
 
 8- MaxCounters: Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.  
    **Score: 100%**  
-  https://app.codility.com/demo/results/trainingDNCM6R-CBH/  
+  https://app.codility.com/demo/results/trainingDNCM6R-CBH/
+
+9- MissingInteger: Find the smallest positive integer that does not occur in a given sequence.  
+   **Score: 100%**  
+  https://app.codility.com/demo/results/trainingTNWYCJ-YMW/  
 
