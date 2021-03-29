@@ -23,5 +23,27 @@ namespace Algos
             if (!hasGap && A[A.Length - 1] > 0) res = A[A.Length - 1] + 1;
             return res;
         }
+
+        // cleaner and faster approach
+        public static int solutionV2(int[] A)
+        {
+            Array.Sort(A);
+            if (A[A.Length - 1] < 1) return 1;
+            var res = 0;
+            var counter = 1;
+            for (int i = 0; i < A.Length; i++)
+            {
+                if (A[i] < 1) continue;
+                if (i < A.Length - 2 && A[i + 1] == A[i]) continue;
+                if (A[i] - counter != 0)
+                {
+                    res = counter;
+                    break;
+                }
+                counter++;
+            }
+            if (res == 0) res = A[A.Length - 1] + 1;
+            return res;
+        }
     }
 }
