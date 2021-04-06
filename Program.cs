@@ -10,7 +10,10 @@ for (int i = 0; i < numLoops; i++)
 {
     var st = new System.Diagnostics.Stopwatch();
     st.Start();
-    var res = Algos.FraudulentActivityNotifications.activityNotifications(new int[] { 10, 20, 30, 40, 50 }, 3);
+    var a = new int[] { 2 ,1 ,3 ,1 ,2};
+    var res = Algos.MergeSort.SortArray(a);
+    Console.WriteLine(string.Join(',',res));
+    Console.WriteLine($"Swaps: {Algos.MergeSort.swaps}");
     st.Stop();
     if (!printedRes)
     {
