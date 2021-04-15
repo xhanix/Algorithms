@@ -41,7 +41,7 @@
             {
                 if (leftIdx < left.Length && rightIdx < right.Length)
                 {
-                    if (left[leftIdx] <= right[rightIdx])
+                    if (left[leftIdx] >= right[rightIdx])
                     {
                         result[i] = left[leftIdx];
                         leftIdx++;
