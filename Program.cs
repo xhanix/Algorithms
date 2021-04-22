@@ -10,7 +10,8 @@ for (int i = 0; i < numLoops; i++)
 {
     var st = new System.Diagnostics.Stopwatch();
     st.Start();
-    var res = Algos.LongestCommonSubstring.commonChild("12341", @"341213");
+    var res = "t";
+    Algos.Sorts.QuickSort(new int[] { 5, 8, 1, 3, 7, 9, 2 });
     st.Stop();
     if (!printedRes)
     {
@@ -29,8 +30,6 @@ for (int i = 0; i < numLoops; i++)
 Console.WriteLine($"=================================================");
 Console.WriteLine($"Avg. Time elapsed ({numLoops}X): {sum / numLoops}");
 Console.WriteLine($"=================================================");
-
-
 
 
 
